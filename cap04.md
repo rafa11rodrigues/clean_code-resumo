@@ -22,6 +22,8 @@ Em vez de usar comentários para marcar final de funções, gaste tempo refatora
 
 Não coloque informações muito grandes nem informações irrelevantes. Se for necessário ter um comentário, ele deve ser simples e estar muito bem conectado a um trecho de código.
 
+Não use comentário para desabilitar um trecho de código. Outras pessoas não vão saber se é um trecho importante ou se pode ser removido, então o comentário vai ficar ali pra sempre poluindo o código.
+
 ### Resumo do resumo:
 
 Se sentir que precisa de comentário pra explicar seu código, gaste tempo refatorando. Só então, depois que não tiver como melhorar a legibilidade e ainda tem algo faltando, aí sim gaste tempo pensando em um comentário simples e direto.
